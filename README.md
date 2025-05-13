@@ -136,4 +136,4 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
   - Verify that API base URLs match
 
 ## License
-This project is provided for educational purposes. Feel free to customize this README with your name, screenshots, or any additional information.
+This project is provided for educational purposes.
